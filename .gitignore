@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+\#*\#
+
+# IDE
+.vscode/
+.idea/
+
+# Python (methodology scripts)
+__pycache__/
+*.pyc
