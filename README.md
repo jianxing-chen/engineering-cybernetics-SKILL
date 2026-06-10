@@ -20,7 +20,7 @@
 
 ```bash
 # 克隆到 Claude Code 的 skills 目录
-git clone https://github.com/<your-username>/engineering-cybernetics-SKILL.git ~/.claude/skills/engineering-cybernetics-SKILL
+git clone https://github.com/jianxing-chen/engineering-cybernetics-SKILL.git ~/.claude/skills/engineering-cybernetics-SKILL
 ```
 
 或者直接复制 `engineering-cybernetics/` 目录到任意 Claude Code 能读取的位置。
